@@ -1,0 +1,53 @@
+* {
+    outline: none;
+    box-sizing: border-box;
+}
+
+#header {
+    background-color: #3c82bf;
+    padding: 10px;
+    color: white;
+}
+
+#heading {
+    font-size: 30px;
+}
+.panel-body{
+    margin-top: 20px;
+}
+#productTable {
+    border-width: 2px;
+    border-color: rgb(19, 18, 17);
+    padding: 0px
+}
+
+#displayTable {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#OutputTable {
+    background-color: #3c82bf;
+    color: white;
+}
+
+#vertical {
+    border-left: 3px solid #44494d;
+    height: 600px;
+    position: absolute;
+    left: 60%;
+    text-align: right;
+}
+
+#image {
+    width: 150px;
+}
+
+#newData {
+    border-color: lightslategrey;
+}
+
+.form-group {
+    flex-wrap: nowrap;
+}
